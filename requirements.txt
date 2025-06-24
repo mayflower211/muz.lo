@@ -1,0 +1,6 @@
+aiogram
+yandex-music
+yt-dlp
+python-dotenv
+pycryptodome
+brotli
